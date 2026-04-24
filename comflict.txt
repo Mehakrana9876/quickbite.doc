@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Add some new content
+=======
+<<<<<<< HEAD
+this is  some content
+=======
+This is line1
+This is line2
+Hello  world
+This is line 4
+>>>>>>> d5c0da1783e67e1338f6262cbfcbd58164256a47
+>>>>>>> dev
